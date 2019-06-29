@@ -36,7 +36,7 @@
   * UIWebView 기반 WebApp 개발
 - App Store(https://itunes.apple.com/kr/app/inkormation/id1052747832?mt=8)
 
-<img src='images/inkormation_main.png' width='200'> <img src='images/inkormation_detail.png' width='200'>
+<img src='/images/inkormation_main.png' width='200'> <img src='/images/inkormation_detail.png' width='200'>
 
 ### Etners Booking
 > 사내 임직원용 회의실 및 차량관리 예약 시스템 개발
@@ -60,7 +60,7 @@
   * WKWebView, Javascript Bridging 기반 WebApp 개발
 - Apple Enterprise Distribution
 
-<img src='images/booking_login.PNG' width='150'> <img src='images/booking_main.PNG' width='150'> <img src='images/booking_meeting_main.PNG' width='150'> <img src='images/booking_meeting_reserve.PNG' width='150'>
+<img src='/images/booking_login.PNG' width='150'> <img src='/images/booking_main.PNG' width='150'> <img src='/images/booking_meeting_main.PNG' width='150'> <img src='/images/booking_meeting_reserve.PNG' width='150'>
 
 ### Etners UTOPIA 정산시스템
 > 기존 그룹웨어 내 정산 관리기능 추가 개발
@@ -93,7 +93,7 @@
   * Java 기반 모바일 API 서버 개발 참여
 - App Store(https://itunes.apple.com/kr/app/총무닷컴/id1180471737?mt=8)
 
-<img src='images/cm_login.PNG' width='150'> <img src='images/cm_community_main.PNG' width='150'> <img src='images/cm_shared.PNG' width='150'> <img src='images/cm_lecture.PNG' width='150'>
+<img src='/images/cm_login.PNG' width='150'> <img src='/images/cm_community_main.PNG' width='150'> <img src='/images/cm_shared.PNG' width='150'> <img src='/images/cm_lecture.PNG' width='150'>
 
 ### RUNUP
 > 스타트업 전용 그룹웨어 개발
@@ -112,7 +112,7 @@
   * MSA 지향 공공 데이터 및 Web Crawling 서비스 개발
   * NodeJS 기반 RESTful API 서버 개발
 
-<img src='images/runup_login.png' width='300'> <img src='images/runup_main.png' width='300'> <img src='images/runup_news.png' width='300'> <img src='images/runup_document.png' width='300'>
+<img src='/images/runup_login.png' width='300'> <img src='/images/runup_main.png' width='300'> <img src='/images/runup_news.png' width='300'> <img src='/images/runup_document.png' width='300'>
 
 ### Etners Payroll 모바일 급여조회 App
 > Etners Payroll 서비스에 대한 모바일 급여조회 App
@@ -132,7 +132,7 @@
   * WKWebView 및 사내 iOS Web App 사용성 개선
 - AppStore(https://itunes.apple.com/kr/app/etners-payroll/id1255390042?mt=8)
 
-<img src='images/payroll.jpg' width='150'> <img src='images/payroll_login.jpg' width='150'> <img src='images/payroll_security.jpg' width='150'>
+<img src='/images/payroll.jpg' width='150'> <img src='/images/payroll_login.jpg' width='150'> <img src='/images/payroll_security.jpg' width='150'>
 
 ### 스마일
 > 스타트업 전용 그룹웨어 'RUNUP' 모바일 앱 개발
@@ -155,7 +155,7 @@
   - Fastlane을 활용한 자동화 빌드 인프라 구축 경험
 - App Store(https://itunes.apple.com/kr/app/스마일smile/id1364913359?mt=8)
 
-<img src='images/smile_login.PNG' width='150'> <img src='images/smile_businessArea.PNG' width='150'> <img src='images/smile_home.PNG' width='150'> <img src='images/smile_commute.PNG' width='150'> <img src='images/smile_document.PNG' width='150'>
+<img src='/images/smile_login.PNG' width='150'> <img src='/images/smile_businessArea.PNG' width='150'> <img src='/images/smile_home.PNG' width='150'> <img src='/images/smile_commute.PNG' width='150'> <img src='/images/smile_document.PNG' width='150'>
 
 ### 스마일 PC 관리자
 > 스마일 모바일 서비스에 대한 관리자용 PC 버전 개발
@@ -169,8 +169,8 @@
   * 로그인 및 Dashboard 개발
 - 스마일 관리자(http://manager.smileinwork.com)
 
-<img src='images/smile_admin_login.png' width='300'>
-<img src='images/smile_admin_dashboard.png' width='300'>
+<img src='/images/smile_admin_login.png' width='300'>
+<img src='/images/smile_admin_dashboard.png' width='300'>
 
 ### Etners Mall V2 Admin
 > Etners Mall 서비스에 대한 배송업체, 고객사, 시스템 관리자용 관리 시스템 개발
@@ -195,7 +195,7 @@
   * Telegram NodeJS API 활용
   * Crawling Module 개발
 
-<img src='images/gabby_media_bot.PNG' width='250'>
+<img src='/images/gabby_media_bot.PNG' width='250'>
 
 ### 사진 구도 어시스턴트 카메라 앱 (스냅남)
 > Face Detection, Object Detection을 활용한 사진 구도 어시스턴트 카메라 앱
@@ -211,5 +211,5 @@
   * Face Detection, Object Detection을 활용한 사진 구도 알고리즘 개발
   * iOS Native Application 개발 및 배포
 
-<img src='images/snapnam_deactivate.png' width='300'> <img src='images/snapnam_activate.png' width='300'>
+<img src='/images/snapnam_deactivate.png' width='300'> <img src='/images/snapnam_activate.png' width='300'>
 
