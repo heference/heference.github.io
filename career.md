@@ -176,12 +176,35 @@
 > Etners Mall 서비스에 대한 배송업체, 고객사, 시스템 관리자용 관리 시스템 개발
 
 - 기간
-  * 2018.10 ~ 진행중
+  * 2018.10 ~ 2018.12
 - 사용 기술
   * [Web]
     * Java, Spring Framework, MySQL
 - 역할
   * 주문관리, 정산관리, 배송관리 개발 담당
+
+### Etners Moving Renewal
+- 기간
+  * 2019.01 ~ 2019.03
+- 사용 기술
+  * [Web]
+    * Java, Spring Framework, MySQL
+- 역할
+    * 해외이사신청 및 관리 개발
+    * 이사현황 관리 개발
+    * 통합 마이페이지 개발
+
+### Etners 근태관리 모바일 어플리케이션
+> 비콘을 활용한 근태관리 시스템 모바일 App 개발
+- 기간
+    * 2019.01 ~ 2019.03
+- 사용 기술
+    * [iOS]
+        * Swift, MVVM, Core Bluetooth, Autolayout, Fastlane
+- 역할
+    - 회원가입, 근무일정, 근태관리 기능 개발
+    - 비콘 연동 모듈 개발
+    - 앱스토어 심사 및 배포
 
 # 개인 프로젝트
 ### 개인 미디어 서버 관리 Telegram Chat Bot 개발
