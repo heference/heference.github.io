@@ -135,7 +135,7 @@
 <img src='/images/payroll.jpg' width='150'> <img src='/images/payroll_login.jpg' width='150'> <img src='/images/payroll_security.jpg' width='150'>
 
 ### 스마일
-> 스타트업 전용 그룹웨어 'RUNUP' 모바일 앱 개발
+> 스타트업 전용 그룹웨어 모바일 앱 개발
 
 - 기간
   * 2017.08 ~ 2018.05
@@ -173,7 +173,7 @@
 <img src='/images/smile_admin_dashboard.png' width='300'>
 
 ### Etners Mall V2 Admin
-> Etners Mall 서비스에 대한 배송업체, 고객사, 시스템 관리자용 관리 시스템 개발
+> 해외 주재원용 쇼핑몰 서비스 대한 배송업체, 고객사, 시스템 관리자용 관리 시스템 개발
 
 - 기간
   * 2018.10 ~ 2018.12
@@ -184,6 +184,8 @@
   * 주문관리, 정산관리, 배송관리 개발 담당
 
 ### Etners Moving Renewal
+> 해외이사 서비스 리뉴얼
+
 - 기간
   * 2019.01 ~ 2019.03
 - 사용 기술
@@ -196,6 +198,7 @@
 
 ### Etners 근태관리 모바일 어플리케이션
 > 비콘을 활용한 근태관리 시스템 모바일 App 개발
+
 - 기간
     * 2019.04 ~ 2019.07
 - 사용 기술
