@@ -60,7 +60,7 @@
   * WKWebView, Javascript Bridging 기반 WebApp 개발
 - Apple Enterprise Distribution
 
-<img src='/images/booking_login.PNG' width='150'> <img src='/images/booking_main.PNG' width='150'> <img src='/images/booking_meeting_main.PNG' width='150'> <img src='/images/booking_meeting_reserve.PNG' width='150'>
+<img src='/images/booking_login.png' width='150'> <img src='/images/booking_main.png' width='150'> <img src='/images/booking_meeting_main.png' width='150'> <img src='/images/booking_meeting_reserve.png' width='150'>
 
 ### Etners UTOPIA 정산시스템
 > 기존 그룹웨어 내 정산 관리기능 추가 개발
@@ -93,7 +93,7 @@
   * Java 기반 모바일 API 서버 개발 참여
 - App Store(https://itunes.apple.com/kr/app/총무닷컴/id1180471737?mt=8)
 
-<img src='/images/cm_login.PNG' width='150'> <img src='/images/cm_community_main.PNG' width='150'> <img src='/images/cm_shared.PNG' width='150'> <img src='/images/cm_lecture.PNG' width='150'>
+<img src='/images/cm_login.png' width='150'> <img src='/images/cm_community_main.png' width='150'> <img src='/images/cm_shared.png' width='150'> <img src='/images/cm_lecture.png' width='150'>
 
 ### RUNUP
 > 스타트업 전용 그룹웨어 개발
@@ -197,14 +197,22 @@
 ### Etners 근태관리 모바일 어플리케이션
 > 비콘을 활용한 근태관리 시스템 모바일 App 개발
 - 기간
-    * 2019.01 ~ 2019.03
+    * 2019.04 ~ 2019.07
 - 사용 기술
     * [iOS]
-        * Swift, MVVM, Core Bluetooth, Autolayout, Fastlane
+        * Swift, MVVM, Core Location, Autolayout, Fastlane
 - 역할
     - 회원가입, 근무일정, 근태관리 기능 개발
+    - 근태 승인관리, 임직원 관리 기능 개발
     - 비콘 연동 모듈 개발
     - 앱스토어 심사 및 배포
+
+<img src='/images/tna_main.PNG' width='150'>
+<img src='/images/tna_schedule.PNG' width='150'>
+<img src='/images/tna_record.PNG' width='150'>
+<img src='/images/tna_approval.PNG' width='150'>
+<img src='/images/tna_features.PNG' width='150'>
+<img src='/images/tna_admin.PNG' width='150'>
 
 # 개인 프로젝트
 ### 개인 미디어 서버 관리 Telegram Chat Bot 개발
@@ -218,7 +226,7 @@
   * Telegram NodeJS API 활용
   * Crawling Module 개발
 
-<img src='/images/gabby_media_bot.PNG' width='250'>
+<img src='/images/gabby_media_bot.png' width='250'>
 
 ### 사진 구도 어시스턴트 카메라 앱 (스냅남)
 > Face Detection, Object Detection을 활용한 사진 구도 어시스턴트 카메라 앱
