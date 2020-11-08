@@ -87,7 +87,7 @@ iOS Software Engineer
 
 <img src='/images/tna_main.png' width='200'><img src='/images/tna_schedule.png' width='200'><img src='/images/tna_record.png' width='200'>
 <br/>
-<img src='/images/tna_approval.PNG' width='200'><img src='/images/tna_features.png' width='200'><img src='/images/tna_admin.png' width='200'>
+<img src='/images/tna_approval.png' width='200'><img src='/images/tna_features.png' width='200'><img src='/images/tna_admin.png' width='200'>
 
 ---
 
@@ -153,7 +153,9 @@ iOS Software Engineer
 
 - 2015.08 ~ 2015.12
 - 외국인 대상 한국 정보제공 커뮤니티
-- Swift, UIWebView
+- Swift, WKWebView, Java, SpringMVC, MyBatis
+- 게시글 관리 기능 구현
+- App Store 배포
 
 <img src='/images/inkormation_main.png' width='200'> <img src='/images/inkormation_detail.png' width='200'>
 
