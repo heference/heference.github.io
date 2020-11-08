@@ -19,7 +19,9 @@ iOS Software Engineer
 - NFC를 활용한 회의실 체크인 기능 구현
 - Apple Enterprise Program 배포
 
-<img src='/images/booki_home.png' width='200'>2<img src='/images/booki_meetingroom.png' width='200'> <img src='/images/booki_reservation.png' width='200'>
+<img src='/images/booki_home.png' width='400'>
+<img src='/images/booki_meetingroom.png' width='400'>
+<img src='/images/booki_reservation.png' width='400'>
 
 ---
 
@@ -31,7 +33,9 @@ iOS Software Engineer
 - 이미지 첨부 기능 구현
 - Apple Enterprise Program 배포
 
-<img src='/images/helpi_home.png' width='200'><img src='/images/helpi_list.png' width='200'><img src='/images/helpi_mywork.png' width='200'>
+<img src='/images/helpi_home.png' width='400'>
+<img src='/images/helpi_list.png' width='400'>
+<img src='/images/helpi_mywork.png' width='400'>
 
 ---
 
@@ -44,7 +48,9 @@ iOS Software Engineer
 - 식권 신청 내역 관리 및 승인, 반려 기능 구현
 - Apple Enterprise Program 배포
 
-<img src='/images/footibiz_home.png' width='200'><img src='/images/footibiz_usage.png' width='200'><img src='/images/footibiz_coupon.png' width='200'>
+<img src='/images/footibiz_home.png' width='400'>
+<img src='/images/footibiz_usage.png' width='400'>
+<img src='/images/footibiz_coupon.png' width='400'>
 
 ---
 
@@ -57,7 +63,8 @@ iOS Software Engineer
 - 식당 검색 및 리뷰 기능 구현
 - Apple Enterprise Program 배포
 
-<img src='/images/footi_home.png' width='200'><img src='/images/footi_cafeteria.png' width='200'>
+<img src='/images/footi_home.png' width='400'>
+<img src='/images/footi_cafeteria.png' width='400'>
 
 ---
 
@@ -71,7 +78,9 @@ iOS Software Engineer
 - 고객센터, 시설안내 기능 구현
 - Apple Enterprise Program 배포
 
-<img src='/images/esop_home.png' width='200'><img src='/images/esop_facility.png' width='200'><img src='/images/esop_business.png' width='200'>
+<img src='/images/esop_home.png' width='400'>
+<img src='/images/esop_facility.png' width='400'>
+<img src='/images/esop_business.png' width='400'>
 
 ---
 
@@ -85,9 +94,13 @@ iOS Software Engineer
 - 임직원 및 조직 관리 기능 구현
 - Apple Enterprise Program 배포
 
-<img src='/images/tna_main.PNG' width='200'><img src='/images/tna_schedule.PNG' width='200'><img src='/images/tna_record.PNG' width='200'>
+<img src='/images/tna_main.PNG' width='400'>
+<img src='/images/tna_schedule.PNG' width='400'>
+<img src='/images/tna_record.PNG' width='400'>
 <br/>
-<img src='/images/tna_approval.PNG' width='200'><img src='/images/tna_features.PNG' width='200'><img src='/images/tna_admin.PNG' width='200'>
+<img src='/images/tna_approval.PNG' width='400'>
+<img src='/images/tna_features.PNG' width='400'>
+<img src='/images/tna_admin.PNG' width='400'>
 
 ---
 
@@ -102,9 +115,12 @@ iOS Software Engineer
 - 급여조회 및 급여 계산기 기능 구현
 - App Store 배포
 
-<img src='/images/smile_login.PNG' width='200'> <img src='/images/smile_businessArea.PNG' width='200'> <img src='/images/smile_home.PNG' width='200'> 
+<img src='/images/smile_login.PNG' width='400'> 
+<img src='/images/smile_businessArea.PNG' width='400'> 
+<img src='/images/smile_home.PNG' width='400'> 
 <br/>
-<img src='/images/smile_commute.PNG' width='200'> <img src='/images/smile_document.PNG' width='200'>
+<img src='/images/smile_commute.PNG' width='400'>
+ <img src='/images/smile_document.PNG' width='400'>
 
 ---
 
@@ -117,7 +133,9 @@ iOS Software Engineer
 - 멀티 태스킹 윈도우 개인정보보호 기능 구현
 - App Store 배포
 
-<img src='/images/payroll.jpg' width='200'> <img src='/images/payroll_login.jpg' width='200'> <img src='/images/payroll_security.jpg' width='200'>
+<img src='/images/payroll.jpg' width='400'> 
+<img src='/images/payroll_login.jpg' width='400'> 
+<img src='/images/payroll_security.jpg' width='400'>
 
 ---
 
@@ -132,7 +150,10 @@ iOS Software Engineer
 - 총무 강의 및 영상 자료실 기능 구현
 - App Store 배포
 
-<img src='/images/cm_login.png' width='200'> <img src='/images/cm_community_main.png' width='200'> <img src='/images/cm_shared.png' width='200'> <img src='/images/cm_lecture.png' width='200'>
+<img src='/images/cm_login.png' width='400'> 
+<img src='/images/cm_community_main.png' width='400'> 
+<img src='/images/cm_shared.png' width='400'> 
+<img src='/images/cm_lecture.png' width='400'>
 
 ---
 
@@ -145,7 +166,10 @@ iOS Software Engineer
 - 회의실 관리 기능 구현
 - Apple Enterprise Program 배포
 
-<img src='/images/booking_login.png' width='200'> <img src='/images/booking_main.png' width='200'> <img src='/images/booking_meeting_main.png' width='200'> <img src='/images/booking_meeting_reserve.png' width='200'>
+<img src='/images/booking_login.png' width='400'>
+ <img src='/images/booking_main.png' width='400'> 
+ <img src='/images/booking_meeting_main.png' width='400'> 
+ <img src='/images/booking_meeting_reserve.png' width='400'>
 
 ---
 
@@ -155,6 +179,6 @@ iOS Software Engineer
 - 외국인 대상 한국 정보제공 커뮤니티
 - Swift, UIWebView
 
-<img src='/images/inkormation_main.png' width='200'> <img src='/images/inkormation_detail.png' width='200'>
-
+<img src='/images/inkormation_main.png' width='200'> 
+<img src='/images/inkormation_detail.png' width='400'>
 ---
