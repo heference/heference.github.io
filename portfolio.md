@@ -19,7 +19,7 @@ iOS Software Engineer
 - NFC를 활용한 회의실 체크인 기능 구현
 - Apple Enterprise Program 배포
 
-<img src='/images/booki_home.png' width='200'>2<img src='/images/booki_meetingroom.png' width='200'> <img src='/images/booki_reservation.png' width='200'>
+<img src='/images/booki_home.png' width='200'>2<img src='/images/booki_meetingroom.png' width='200'>
 
 ---
 
