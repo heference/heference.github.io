@@ -31,7 +31,7 @@ iOS Software Engineer
 - 이미지 첨부 기능 구현
 - Apple Enterprise Program 배포
 
-<img src='/images/helpi_home.png' width='200'><img src='/images/helpi_list.png' width='200'><img src='/images/helpi_mywork.png' width='200'>
+
 
 ---
 
@@ -44,7 +44,7 @@ iOS Software Engineer
 - 식권 신청 내역 관리 및 승인, 반려 기능 구현
 - Apple Enterprise Program 배포
 
-<img src='/images/footibiz_home.png' width='200'><img src='/images/footibiz_usage.png' width='200'><img src='/images/footibiz_coupon.png' width='200'>
+
 
 ---
 
@@ -57,7 +57,7 @@ iOS Software Engineer
 - 식당 검색 및 리뷰 기능 구현
 - Apple Enterprise Program 배포
 
-<img src='/images/footi_home.png' width='200'><img src='/images/footi_cafeteria.png' width='200'>
+
 
 ---
 
